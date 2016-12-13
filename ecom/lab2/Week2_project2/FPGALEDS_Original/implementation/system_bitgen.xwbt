@@ -1,0 +1,7 @@
+INFILE=H:\FPGALEDS\implementation\system.ncd
+OUTFILE=H:\FPGALEDS\implementation\system.bit
+FAMILY=Spartan3
+PART=xc3s1000-4ft256
+WORKINGDIR=H:\FPGALEDS\implementation
+LICENSE=WebPack
+USER_INFO=__0_0_0

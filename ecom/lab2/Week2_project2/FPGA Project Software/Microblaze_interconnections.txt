@@ -1,0 +1,68 @@
+(pins) (direction) (comprehensive label) (interconnection net)
+#Camera interface
+clock 	I (clk)			sclk
+c15 	I (clkinb)		sclk	
+c14 	I (b_reset)		sn
+c13 	I (cfg_reg)		sm
+c12 	I (pxl_clock) 	sl	
+c11 	I (href) 		sk
+c10 	I (vsync) 		sj
+c09 	I (yi)  		si		7:0
+c08 	O (SDA)			sh
+c07 	O (SCL) 		sg
+c06 	O (cam_rst) 	sf
+c05		O (pwdn) 		se
+c04		O (exclk) 		sd
+c03 	O (yo1) 		sc		7:0
+c02		I (addr1) 		sb		12:0
+c01 	I (en1) 		sa
+FSL Bus Master
+
+#VGA interface
+clock 	I (clk)			sclk
+v07 	I (sys_rst) 	sn	
+v06 	I (disp_yi1) 	sc		7:0
+v05		O (disp_addr1) 	sb		12:0
+v04		O (disp_en1) 	sa
+v03 	O (yo) 			sq		7:0
+v02 	O (hs) 			sp
+v01 	O (vs) 			so
+FSL Bus Slave
+
+#External interface
+clock 	I (clk_i)			sclk
+io01 	I (yi_i)			si		7:0
+io02 	I (vsync_i)			sj
+io03 	I (href_i)			sk
+io04 	I (pxl_clk_i)		sl
+io05 	I (config_reg_i)	sm
+io06 	I (board_reset_i)	sn
+io07 	O (vs_o)			so
+io08 	O (hs_o)			sp
+io09 	O (y_o)				sq		7:0
+io10 	O (cam_rst_o)		sf
+io11 	O (exclk_o)			sd
+io12 	O (pwdn_o)			se			
+io13 	O (SCL_o)			sg
+io14 	O (SDA_io)			sh
+
+#Internal signals
+sclk
+sa
+sb
+sc
+sd
+se
+sf
+sg
+sh
+si
+sj
+sk
+sl
+sm
+sn
+so
+sp
+sq
+

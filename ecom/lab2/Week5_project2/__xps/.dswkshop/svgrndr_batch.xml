@@ -1,0 +1,36 @@
+
+<RENDERBATCH>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\microblaze_0.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\microblaze_0.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\microblaze_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\mb_plb.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\mb_plb.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\mb_plb.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\ilmb.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\ilmb.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\ilmb.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\dlmb.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\dlmb.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\dlmb.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\dlmb_cntlr.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\dlmb_cntlr.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\dlmb_cntlr.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\ilmb_cntlr.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\ilmb_cntlr.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\ilmb_cntlr.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\lmb_bram.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\lmb_bram.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\lmb_bram.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\clock_generator_0.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\clock_generator_0.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\clock_generator_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\mdm_0.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\mdm_0.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\mdm_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\proc_sys_reset_0.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\proc_sys_reset_0.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\proc_sys_reset_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\running_leds.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\running_leds.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\running_leds.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\VGA_interface_0.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\VGA_interface_0.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\VGA_interface_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\camera_interface_0.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\camera_interface_0.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\camera_interface_0.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\camera2mb.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\camera2mb.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\camera2mb.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\mb2vga.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\mb2vga.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\mb2vga.svg"/>
+
+  <RENDERIMG RASNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\system_blkd.jpg" SVGNAME="C:\FPGANEGCv2\SDK\SDK_Export\hw\imgs\system_blkd.svg" TMPSVGFN="C:\FPGANEGCv2\__xps\.dswkshop\system_blkd.svg"/>
+
+</RENDERBATCH>

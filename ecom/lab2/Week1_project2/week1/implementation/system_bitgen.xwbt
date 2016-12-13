@@ -1,0 +1,7 @@
+INFILE=F:\ecom\lab2\week1\implementation\system.ncd
+OUTFILE=F:\ecom\lab2\week1\implementation\system.bit
+FAMILY=Spartan3
+PART=xc3s1000-4ft256
+WORKINGDIR=F:\ecom\lab2\week1\implementation
+LICENSE=ISE
+USER_INFO=174117477_174117478_210622519_468

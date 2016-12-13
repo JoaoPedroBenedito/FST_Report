@@ -1,0 +1,14 @@
+#Wed Nov 09 11:10:42 GMT 2016
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:.sdata2=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:Heap-size=1024
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:.sbss=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:.sdata=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:Stack-size=1024
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:.rodata=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:.data=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:.bss=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:Stack=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:Heap=ilmb_cntlr_dlmb_cntlr
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:.text=ilmb_cntlr_dlmb_cntlr
+eclipse.preferences.version=1
+com.xilinx.sdk.linkgen.prefs.c_running_leds\:.sbss2=ilmb_cntlr_dlmb_cntlr

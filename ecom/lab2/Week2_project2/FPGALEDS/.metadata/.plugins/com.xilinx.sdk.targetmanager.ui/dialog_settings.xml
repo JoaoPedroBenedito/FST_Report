@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="bootloop" key="FPGALEDS2_hw_platform-microblaze_0-initElf"/>
+	<item value="F:\ecom\lab2\Week2_project2\FPGALEDS\SDK\SDK_Export\hw\system_bd.bmm" key="FPGALEDS_hw_platform-bmmFile"/>
+	<item value="bootloop" key="FPGALEDS_hw_platform-microblaze_0-initElf"/>
+	<item value="H:\FPGALEDS\FPGALEDS2_hw_platform\system.bit" key="FPGALEDS2_hw_platform-bitFile"/>
+	<item value="F:\FPGALEDS2\FPGALEDS2_hw_platform\system_bd.bmm" key="FPGALEDS2_hw_platform-bmmFile"/>
+	<item value="F:\ecom\lab2\Week2_project2\FPGALEDS\SDK\SDK_Export\hw\system.bit" key="FPGALEDS_hw_platform-bitFile"/>
+</section>

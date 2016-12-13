@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476199972 source:f:\ecom\ec_mouse_week_3\pc_console\console.cpp
+	<stdio.h>
+	"windows.h"
+	"mpusbapi.h"
+
+1212676426 f:\ecom\ec_mouse_week_3\pc_console\mpusbapi.h
+

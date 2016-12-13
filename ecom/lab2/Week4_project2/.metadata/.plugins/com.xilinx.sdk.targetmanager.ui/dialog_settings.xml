@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="bootloop" key="spart3_first_time_hw_platform-microblaze_0-initElf"/>
+	<item value="F:\ecom\lab2\Week4_project2\spart3_first_time_hw_platform\system.bit" key="spart3_first_time_hw_platform-bitFile"/>
+	<item value="F:\ecom\lab2\Week4_project2\spart3_first_time_hw_platform\system_bd.bmm" key="spart3_first_time_hw_platform-bmmFile"/>
+</section>
