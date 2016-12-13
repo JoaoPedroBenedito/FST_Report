@@ -1,3 +1,0 @@
-PROCESSOR=microblaze_0
-REPOSITORIES=
-HWSPEC=../spart3_first_time_hw_platform/system.xml

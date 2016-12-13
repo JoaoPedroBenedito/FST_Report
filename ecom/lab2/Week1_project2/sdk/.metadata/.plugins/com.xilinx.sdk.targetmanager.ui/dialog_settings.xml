@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<item value="F:\ecom\lab2\sdk\week1_hw_platform\system_bd.bmm" key="week1_hw_platform-bmmFile"/>
-	<item value="bootloop" key="week1_hw_platform-microblaze_0-initElf"/>
-	<item value="F:\ecom\lab2\sdk\week1_hw_platform\system.bit" key="week1_hw_platform-bitFile"/>
-</section>
