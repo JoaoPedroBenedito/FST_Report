@@ -1,0 +1,5 @@
+\select@language {portuguese}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}{section.1}
+\contentsline {section}{\numberline {2}Sensor NTC}{2}{section.2}
+\contentsline {section}{\numberline {3}Circuito implementado}{3}{section.3}
+\contentsline {section}{\numberline {4}Anexos}{4}{section.4}
